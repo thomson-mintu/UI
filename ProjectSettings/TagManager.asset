@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Apple
+  - AppleTxt
+  - footballtxt
+  - football
+  - cat
+  - cattxt
+  - dog
+  - dogtxt
+  - egg
+  - eggtxt
+  - fish
+  - fishtxt
+  - giraffe
+  - giraffetxt
+  - heli
+  - helitxt
+  - icecream
+  - icecreamtxt
+  - jacket
+  - jackettxt
+  - kangaroo
+  - kangarootxt
+  - lion
+  - liontxt
+  - mango
+  - mangotxt
+  - note
+  - notetxt
+  - orange
+  - orangetxt
+  - parrot
+  - parrottxt
+  - queen
+  - queentxt
+  - rat
+  - rattxt
+  - snow
+  - snowtxt
+  - tree
+  - treetxt
+  - umbrella
+  - umbrellatxt
+  - van
+  - vantxt
+  - watch
+  - watchtxt
+  - xylo
+  - xylotxt
+  - yacht
+  - yachttxt
+  - zebra
+  - zebratxt
+  - doberman
+  - plane
+  - sofa
+  - car
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - LayerM
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
